@@ -1,4 +1,4 @@
-# FreeCodeCamp Color settings
+# FreeCodeCamp - Color settings
 
 Technologies used:
 
@@ -26,7 +26,3 @@ Technologies used:
 ## Web App
 
 ![image](https://user-images.githubusercontent.com/63982700/210253147-598a97e8-d71d-4881-ba66-2e3ca3f81bf4.png)
-
-## Mobile
-
-![image](https://user-images.githubusercontent.com/63982700/210197012-a010d269-4488-44c3-983d-ce178a3a1ee0.png)
